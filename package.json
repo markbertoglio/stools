@@ -1,0 +1,22 @@
+{
+  "name": "stools",
+  "version": "0.0.1",
+  "description": "Misc service tools",
+  "main": "main.js",
+  "directories": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markbertoglio/stools.git"
+  },
+  "author": "Mark B",
+  "license": "MIT",
+  "bugs": {},
+  "dependencies": {
+    "length": "0.0.1",
+    "npmlog": "^1.2.0",
+    "redis": "^0.12.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
+}
